@@ -7,5 +7,6 @@ export default function Landing() {
             <label className="flex justify-center capitalize text-2xl m-5">The eminence shadow</label>
             <div id="img" className="min-w-screen min-h-[13rem] mx-3 bg-white"></div>
         </div>
-    </div>
+        <div className="footer"></div>
+   </div>
 }
